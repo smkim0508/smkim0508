@@ -1,8 +1,8 @@
 ## Hi there :\)
 
-#### AI Scientist, Applied ML System Engineer
+#### Applied AI/ML System Engineer, ML Researcher, and a huge [Foodie!!](https://www.instagram.com/minmunches_/)
 
-Context orchestration for short and long-term user preferneces/memory to truly "understand" *you* with LLM agents!
+*Current focus:* Context orchestration for short and long-term user preferneces/memory to truly "understand" *you* with LLM agents!
 
 - 👀 Cool things I’ve built!
   - <a href="https://www.jingo.app"><img src="assets/logos/jingo_logo.svg" width="15" height="15" style="vertical-align:middle;" /> LLM Powered Personalized Product Recommendation Systems @Jingo</a>

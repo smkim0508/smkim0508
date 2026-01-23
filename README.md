@@ -2,7 +2,7 @@
 
 #### Applied AI/ML System Engineer, ML Researcher, and a huge [Foodie!!](https://www.instagram.com/minmunches_/)
 
-*Current focus:* Context orchestration for short and long-term user preferneces/memory to truly "understand" *you* with LLM agents!
+*Current focus:* Context extraction from low-level HCI signals to achieve long and short-term user preference/memory orchestration, truly "understanding" *you* with everyday Agents!
 
 - 👀 Cool things I’ve built!
   - <a href="https://www.jingo.app"><img src="assets/logos/jingo_logo.svg" width="15" height="15" style="vertical-align:middle;" /> LLM Powered Personalized Product Recommendation Systems @Jingo</a>
@@ -10,6 +10,7 @@
   - [🍽️ Personalized Restaurant Recommendation App with Swift & Flask](https://github.com/smkim0508/RestaurantRepo), using [scaled cosine similarity among reviews on Yelp Dataset](https://github.com/smkim0508/Food_Preference_Indexer)
   - 💾 PUnC: 16-bit processor implementing LC3 ISA for FPGA deployment, written with Verilog
   - [🍣 Min Meals Ordering App: Place your next lunch orders for my small cooking sidequest!](https://github.com/smkim0508/Menu_Organizer.git)
+<!-- GPT-style Language Model from scratch: add this after completing model refinement and achieving tasks -->
 
 - 🔭 Pulled all-nighters researching...
   - *Current:* [🧠 Memory-contextualization in LLM agents for continuous HCI data: capturing short and long-term user preferences from behavioral patterns in everyday smartphone usage @Seung Lab, Princeton Neuroscience Institute](https://seunglab.org/)
@@ -22,5 +23,7 @@
   - [📸 CEPELM: Cultural Emulsifier with Novel Photograph Enhancement System for Lost Memories](https://github.com/smkim0508/CEPELM)
 - 🌱Learning...
   - How to print "Hello World"
+  - Transformer architecture implementation and optimization
+  - Novel low-level HCI data extraction & storage protocols
 ---
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=smkim0508&mode=weekly)](https://git.io/streak-stats) -->

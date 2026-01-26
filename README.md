@@ -13,7 +13,8 @@
 <!-- GPT-style Language Model from scratch: add this after completing model refinement and achieving tasks -->
 
 - 🔭 Pulled all-nighters researching...
-  - *Current:* [🧠 Memory-contextualization in LLM agents for continuous HCI data: capturing short and long-term user preferences from behavioral patterns in everyday smartphone usage @Seung Lab, Princeton Neuroscience Institute](https://seunglab.org/)
+  - *Current:* [🧠 Memory-contextualization in LLM agents for continuous HCI data: capturing short and long-term user preferences from behavioral patterns in everyday smartphone usage](https://github.com/smkim0508/Portable-Brain)
+    - @[Seung Lab, Princeton Neuroscience Institute](https://seunglab.org/)
   - [👾 Optimizing Deep Learning Models for Real-Time Image Processing on Edge Devices @Princeton ECE Independent Research](https://drive.google.com/file/d/1e0YPveQt8Edy3bSvruP2KYPFhEXAdSFS/view?usp=sharing)
   - [👁️ A Novel Rotation-aware Representation Learning for Gaze Estimation to Assist Disabled Individuals](https://github.com/smkim0508/Gaze_Estimation_Wheelchair)
     - Regeneron STS Scholar, $4000 Scholarship

@@ -22,7 +22,7 @@
   - 🍔 [AOS: Anti-Obesity System with Deep Learning-based Classification Model Using a Novel Data Augmentation Technique](https://github.com/smkim0508/ObesityNutritionClassifier)
     - Publication on [Journal of Student Research Vol. 11, No. 1](https://www.jsr.org/hs/index.php/path/article/view/2349)
   - [📸 CEPELM: Cultural Emulsifier with Novel Photograph Enhancement System for Lost Memories](https://github.com/smkim0508/CEPELM)
-- 🌱Learning...
+- 🌱 Learning...
   - How to print "Hello World"
   - Transformer architecture implementation and optimization
   - Novel low-level HCI data extraction & storage protocols

@@ -4,7 +4,7 @@
 
 *Current focus:* Context extraction from low-level HCI signals to achieve long and short-term user preference/memory orchestration, truly "understanding" *you* with everyday Agents!
 
-Building [PortableBrain](https://github.com/smkim0508/Portable-Brain), a personalized agentic assistant that learns from your low-level smartphone HCI data.
+Building **[PortableBrain](https://github.com/smkim0508/Portable-Brain)**, a personalized agentic assistant that learns from your low-level smartphone HCI data.
 
 - 👀 Cool things I’ve built!
   - <a href="https://www.jingo.app"><img src="assets/logos/jingo_logo.svg" width="15" height="15" style="vertical-align:middle;" /> LLM Powered Personalized Product Recommendation Systems @Jingo</a>

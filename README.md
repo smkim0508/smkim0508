@@ -9,7 +9,7 @@ Building **[Memora](https://github.com/memora-lab/memory-service-public)**, a pe
 - 👀 Cool things I’ve built!
   - <a href="https://www.jingo.app"><img src="assets/logos/jingo_logo.svg" width="15" height="15" style="vertical-align:middle;" /> LLM Powered Personalized Product Recommendation Systems @Jingo</a>
   - [👫 PeerPear: Centralized, LLM-powered Group/Partner Pairing Platform for Mentorship on College Campus](https://github.com/smkim0508/PeerPear)
-  - [🌟 Retrieval Middleware with Semantic Cache, Reranker, and Write Buffers](https://github.com/smkim0508/semantic-retrieval-middleware) (Optimized for low-latency, streamlined updates and intelligent retrievals, applied to PortableBrain)
+  - [🌟 Retrieval Middleware with Semantic Cache, Reranker, and Write Buffers](https://github.com/smkim0508/semantic-retrieval-middleware) (Optimized for low-latency, streamlined updates and intelligent retrievals, applied to Memora)
   - [📚 Reproduced GPT LM, pre-trained on Shakespearean Dialect](https://github.com/smkim0508/transformer-gpt-nmt)
   - [🍽️ Personalized Restaurant Recommendation App with Swift & Flask](https://github.com/smkim0508/RestaurantRepo), using [scaled cosine similarity among reviews on Yelp Dataset](https://github.com/smkim0508/Food_Preference_Indexer)
   - 💾 PUnC: 16-bit processor implementing LC3 ISA for FPGA deployment, written with Verilog
@@ -29,4 +29,4 @@ Building **[Memora](https://github.com/memora-lab/memory-service-public)**, a pe
   - Novel low-level HCI data extraction & storage protocols
   - How to scale value (!!)
 ---
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=smkim0508&mode=weekly)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=smkim0508&theme=github-dark-blue&mode=daily)](https://git.io/streak-stats)

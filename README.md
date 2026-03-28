@@ -29,4 +29,6 @@ Building **[Memora](https://github.com/memora-lab/memory-service-public)**, a pe
   - Novel low-level HCI data extraction & storage protocols
   - How to scale value (!!)
 ---
-[![GitHub Streak](https://streak-stats.demolab.com?user=smkim0508&theme=github-dark-blue&mode=daily)](https://git.io/streak-stats)
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=smkim0508&theme=github-dark-blue&mode=daily">
+</p>

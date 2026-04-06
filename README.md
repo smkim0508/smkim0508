@@ -30,5 +30,5 @@ Building **[Memora](https://github.com/memora-lab/memory-service-public)**, a pe
   - How to scale value (!!)
 ---
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=smkim0508&theme=github-dark-blue&mode=daily">
+<img src="https://streak-stats.demolab.com?user=smkim0508&theme=github-dark-blue&mode=weekly">
 </p>

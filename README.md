@@ -1,10 +1,8 @@
 ## Hi there :\)
 
-#### Applied AI/ML System Engineer, ML Researcher, and a huge [Foodie!!](https://www.instagram.com/minmunches_/)
+#### I enjoy ML research, HRI, and [Cooking!!](https://www.instagram.com/minmunches_/)
 
-*Current focus:* Context extraction from low-level HCI signals to achieve long and short-term user preference/memory orchestration, truly "understanding" *you* with everyday Agents!
-
-Building **[Memora](https://github.com/memora-lab/memory-service-public)**, a personalized agentic assistant that learns from your low-level smartphone HCI data.
+Currently building **[Memora](https://memoralabs.app/)**
 
 - 👀 Cool things I’ve built!
   - <a href="https://www.jingo.app"><img src="assets/logos/jingo_logo.svg" width="15" height="15" style="vertical-align:middle;" /> LLM Powered Personalized Product Recommendation Systems @Jingo</a>
@@ -26,9 +24,8 @@ Building **[Memora](https://github.com/memora-lab/memory-service-public)**, a pe
     - Publication on [Journal of Student Research Vol. 11, No. 1](https://www.jsr.org/hs/index.php/path/article/view/2349)
   - [📸 CEPELM: Cultural Emulsifier with Novel Photograph Enhancement System for Lost Memories](https://github.com/smkim0508/CEPELM)
 - 🌱 Tinkering...
-  - Novel low-level HCI data extraction & storage protocols
-  - How to scale value (!!)
+  - What does it mean for robots to collaborate with humans?
 ---
-<p align="center">
+<!-- <p align="center">
 <img src="https://streak-stats.demolab.com?user=smkim0508&theme=github-dark-blue&mode=weekly">
-</p>
+</p> -->
